@@ -25,12 +25,19 @@ This project demonstrates a simple web application that integrates AWS Lambda fu
 ## Screenshots
 
 ### DynamoDB Table with Sample Records
-![DynamoDB Table Screenshot](screenshots/dynamodb-table.png)
+![DynamoDB Table Screenshot](<img width="1381" height="287" alt="image" src="https://github.com/user-attachments/assets/e6948ab5-a3df-48f6-938f-25e0e862e954" />
+)
 
 ### Successful API Requests
-![API Request Screenshot](screenshots/api-success.png)
+![API Request Screenshot]<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/51eb1e83-f048-4d87-b006-04bceea7fb3b" />
 
-_Place your screenshots in the `screenshots/` folder and update the image paths above as needed._
+<img width="1421" height="830" alt="image" src="https://github.com/user-attachments/assets/c57a3e95-4bfd-45e2-9951-813f63b6ca86" />
+
+<img width="1425" height="818" alt="image" src="https://github.com/user-attachments/assets/19495ab6-bb29-462e-aed8-066e677d532d" />
+
+<img width="1409" height="829" alt="image" src="https://github.com/user-attachments/assets/e9848c3a-ac91-452d-a955-84b84ecfa94d" />
+
+
 
 ## Reflection
 
@@ -43,7 +50,3 @@ _Place your screenshots in the `screenshots/` folder and update the image paths 
 - How to deploy and test AWS Lambda functions using the AWS Console and CLI.
 - The basics of DynamoDB, including table creation, primary keys, and CRUD operations.
 - Best practices for serverless application development and troubleshooting AWS services.
-
----
-
-Feel free to update this README with more details about your implementation, architecture diagrams, or additional screenshots as needed.
