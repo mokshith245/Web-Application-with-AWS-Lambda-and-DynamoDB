@@ -25,11 +25,11 @@ This project demonstrates a simple web application that integrates AWS Lambda fu
 ## Screenshots
 
 ### DynamoDB Table with Sample Records
-![DynamoDB Table Screenshot](<img width="1381" height="287" alt="image" src="https://github.com/user-attachments/assets/e6948ab5-a3df-48f6-938f-25e0e862e954" />
-)
+<img width="1381" height="287" alt="image" src="https://github.com/user-attachments/assets/e6948ab5-a3df-48f6-938f-25e0e862e954" />
+
 
 ### Successful API Requests
-![API Request Screenshot]<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/51eb1e83-f048-4d87-b006-04bceea7fb3b" />
+<img width="1422" height="810" alt="image" src="https://github.com/user-attachments/assets/51eb1e83-f048-4d87-b006-04bceea7fb3b" />
 
 <img width="1421" height="830" alt="image" src="https://github.com/user-attachments/assets/c57a3e95-4bfd-45e2-9951-813f63b6ca86" />
 
